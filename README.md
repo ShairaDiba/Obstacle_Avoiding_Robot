@@ -86,3 +86,7 @@ Install these from the Arduino Library Manager:
 | Farhan Tanvir | [@FarhanTanvir](https://github.com/FarhanTanvir) |
 | Shaira Akhter Diba | [@ShairaDiba](https://github.com/ShairaDiba) |
 | Fazli Rabbi Noor | [@FarhanNoor](https://github.com/FarhanNoor) |
+
+##  Status
+ completed
+
