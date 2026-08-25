@@ -69,13 +69,12 @@ return distance;
 }
 int lookLeft()
 {
-myservo.write(170);
-delay(500);
-int distance = readPing();
-delay(100);
-myservo.write(115);
-return distance;
-delay(100);
+  myservo.write(170);
+  delay(500);
+  int distance = readPing();
+  delay(100);
+  myservo.write(115);
+  return distance;
 }
 int readPing() {
 delay(70);
