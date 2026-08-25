@@ -80,12 +80,12 @@ Install these from the Arduino Library Manager:
 
 ## 👥 Team
 
-| Name | GitHub |
-|------|--------|
-| Shruti Khisa | [@ShrutiKhisa](https://github.com/ShrutiKhisa) |
-| Farhan Tanvir | [@FarhanTanvir](https://github.com/FarhanTanvir) |
-| Shaira Akhter Diba | [@ShairaDiba](https://github.com/ShairaDiba) |
-| Fazli Rabbi Noor | [@FarhanNoor](https://github.com/FarhanNoor) |
+| Name | GitHub | Contribution |
+|------|--------|--------------|
+| Shruti Khisa | [@ShrutiKhisa](https://github.com/ShrutiKhisa) | Circuit design, sensor integration, system structure, and testing |
+| Farhan Tanvir | [@FarhanTanvir](https://github.com/FarhanTanvir) | Circuit assembly, hardware integration, and system development |
+| Shaira Akhter Diba | [@ShairaDiba](https://github.com/ShairaDiba) | Circuit design, sensor integration, system structure, and testing |
+| Fazli Rabbi Noor | [@FarhanNoor](https://github.com/FarhanNoor) | Circuit assembly, hardware integration, and system development |
 
 ##  Status
  completed
